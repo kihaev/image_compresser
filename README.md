@@ -1,1 +1,1 @@
-# image_compressor
+# image_uniqueizer
