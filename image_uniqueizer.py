@@ -17,7 +17,7 @@ class Window(Frame):
         self.init_window()
 
     def init_window(self):
-        self.master.title('Image compressor')
+        self.master.title('Image uniqueizer')
         Label(self.master,
               text="Input path").grid(row=0)
         Label(self.master,
